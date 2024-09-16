@@ -1,9 +1,3 @@
-
-## Screenshots
-
-![App Screenshot](Assets/image.png)
-
-
 # Login Page with Tailwind CSS
 
 Este projeto é uma página de login simples criada utilizando **Tailwind CSS**. A estrutura do projeto foi separada em arquivos HTML, CSS e JavaScript para facilitar a manutenção e o desenvolvimento.
